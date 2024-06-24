@@ -5,4 +5,6 @@ Step 3 : By Using Seaborn Visualize The Relationship Between Dependent And All T
 Step 4 : Split The Independent Variables To the X Variable And Dependent Variable To The Y Variable
 Step 5 : Check Wheather The X Variable And Y Variable Has The Same Length
 Step 6 : Import train_test_split Package From The Sklearn.model_selection And split The Train And Test Datas
-Step 7 : 
+Step 7 : Import LinearRegresssion Package And Fit The X_train And Y_train
+Step 8 : Using The Function Fit Predict the Dependent Variable And Check The Relationship between Y_test And Y_pred Variables This Shows How Well Our Model Predicted
+Step 9 : Check The Mean Square Value And Rooted Square Value To Check The Error

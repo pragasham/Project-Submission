@@ -1,2 +1,10 @@
 This Project Is About The Sentimental Analysis Used To Determine The Tone Behind The Body Of Text By using Natural language Processing
 Step 1 : Import The CSV File Using Pandas 
+Step 2 : Print The First 10 Rows For Reference 
+Step 3 : Using The Drop Function Drop The Unwanted Columns and Display To Check
+Step 4 : Import Nltk and download vader_lexicon And Stopwords
+Step 5 : To Display The Number Of Languages Available Use The Function stopwoards.fileids()
+Step 6 : Import Langdetect To Check The Type Of language And Add the Column Language To Add All
+Step 7 : Import Spell Checker and Sentiment Intensity Analiser If The Intensity Is Greater Than 0.35 It Is Positive , If The Intensity Is Less Than -0.05 It Is Negative Else The Given Is Neutral Text.
+Step 8 : Count The Total Positive,Negative And Neutral Texts And Visualize It Using MatplotLib
+Step 9 : Using The Wordcloud Visualize The Repeated Positive,Negative and Neutral Words

@@ -1,1 +1,2 @@
-
+This Project Is About The Sentimental Analysis Used To Determine The Tone Behind The Body Of Text By using Natural language Processing
+Step 1 : Import The CSV File Using Pandas 

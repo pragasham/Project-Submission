@@ -2,3 +2,7 @@ This Project Is About The Multiple Lineear Reggresssion Used To Model The Relati
 Step 1 : Import The Csv File Using The Pandas 
 Step 2 : Print The First 10 Rows By The Head Function
 Step 3 : By Using Seaborn Visualize The Relationship Between Dependent And All The Independent Variables
+Step 4 : Split The Independent Variables To the X Variable And Dependent Variable To The Y Variable
+Step 5 : Check Wheather The X Variable And Y Variable Has The Same Length
+Step 6 : Import train_test_split Package From The Sklearn.model_selection And split The Train And Test Datas
+Step 7 : 

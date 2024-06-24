@@ -1,3 +1,4 @@
-This Project Is About The Multiple Lineear Reggresssion Used To Model The Relationship Between One Dependent variable And Multiple Independent variable.
+This Project Is About The Multiple Lineear Reggresssion Used To Model The Relationship Between One Dependent Variable And Multiple Independent variable.
 Step 1 : Import The Csv File Using The Pandas 
-Step 2 : 
+Step 2 : Print The First 10 Rows By The Head Function
+Step 3 : By Using Seaborn Visualize The Relationship Between Dependent And All The Independent Variables
